@@ -1,2 +1,46 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "144c9b2dd530cfdf13dd3757c8eddcf6cfcc9631536dcabdd1378a39c8bdf47b"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "b2ee702eefe4a495e3a8aabfa1dc7862ac84077438c37e8171b17ec05ced533b"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "c2597298dd5d160ca9161a12bcb5e933118cb66718b27c0945938eedb19dd90d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "8d8efd1b0fdd39724444d3f38573077f82b9f7091376d1c18a52404d7053626c"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "34b0c904186f9883c26ffacf49afdf66bc21d44d8e62537cca5094032ccccb04"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "6c8c93e74e46a0cac65179d027e9aac4eaebc44847604b0ff86644f3030116e8"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "174b7b4038141e84a8a08c29d742fe4608574955991b6147b0a5fdac4c6529ff"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
+metafile = true
