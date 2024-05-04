@@ -79,6 +79,11 @@ hash = "187bba826212d113209cb31b52413b5e7e67b3a922fd13cfda4c79d8a16fe6e5"
 metafile = true
 
 [[files]]
+file = "mods/fire-arrows-ignite-fire.pw.toml"
+hash = "ac7af7b3ae5e63fe75ccc9dfff73caa743c642c24bb613bc19a80e2782e0d4a7"
+metafile = true
+
+[[files]]
 file = "mods/highlight.pw.toml"
 hash = "ed4d1e3eae3a95320b8f9b55594b1f0dc097740b35485b73056e7d95cef1bcfd"
 metafile = true
