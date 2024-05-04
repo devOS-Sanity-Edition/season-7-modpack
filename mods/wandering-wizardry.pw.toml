@@ -1,7 +1,0 @@
-name = "wandering-wizardry"
-filename = "wwizardry-1.1.0+mc.1.20.5-alpha.1-fabric.jar"
-
-[download]
-url = "https://github.com/Sweet-Berry-Collective/Wandering-Wizardry/releases/download/1.1.0%2Bmc.1.20.5-alpha.1/wwizardry-1.1.0+mc.1.20.5-alpha.1-fabric.jar"
-hash-format = "sha256"
-hash = "e2d4404f0831bc4282024559d1ab33cebfe9c677b92d0250ab3ed7b165b92d8c"

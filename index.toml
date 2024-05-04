@@ -6,7 +6,7 @@ hash = "e138dce65dd415ff265058c869383e7401e8d99eba177080b98436f5f089dec5"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "bf13ee952aa4b55324b423bdc889b9f9267fcad535fa958136e1b483e163f57c"
+hash = "9086a47d21f1dfe1626863d68764f258b5af81cc4c919743e9138786c7c7d5c6"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -21,11 +21,6 @@ metafile = true
 [[files]]
 file = "mods/blocky-bass.pw.toml"
 hash = "243c9e10f4aaa9dea421f67bab5f5e41c84e992f0b7d0b9c35a598a566889304"
-metafile = true
-
-[[files]]
-file = "mods/cardinal-components-api.pw.toml"
-hash = "a73832ece6083abf2a844d12402c5fd1814f95140977ca9a745e042165aa7fda"
 metafile = true
 
 [[files]]
@@ -75,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "144c9b2dd530cfdf13dd3757c8eddcf6cfcc9631536dcabdd1378a39c8bdf47b"
+hash = "187bba826212d113209cb31b52413b5e7e67b3a922fd13cfda4c79d8a16fe6e5"
 metafile = true
 
 [[files]]
@@ -85,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b2ee702eefe4a495e3a8aabfa1dc7862ac84077438c37e8171b17ec05ced533b"
+hash = "adc3dd1a54a124e9a79fa5c3fb64dfe3acd226dad15e23fed4f3aa9a951a1b6a"
 metafile = true
 
 [[files]]
@@ -95,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c2597298dd5d160ca9161a12bcb5e933118cb66718b27c0945938eedb19dd90d"
+hash = "982a1a87d6cdf6e610a2792da4580ed9e69cb4e441f8f1f0787562aaf2a67cf2"
 metafile = true
 
 [[files]]
@@ -110,17 +105,17 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "8d8efd1b0fdd39724444d3f38573077f82b9f7091376d1c18a52404d7053626c"
+hash = "354cc583870fb0af0384d4bf5ccedaa883f2c8aa00c65007b19e4a00aaa7f0ad"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "34b0c904186f9883c26ffacf49afdf66bc21d44d8e62537cca5094032ccccb04"
+hash = "cd21de1d5fbff8c8b1e7c4b932826f9be45765a932b3ddbafed081a2170278cb"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6c8c93e74e46a0cac65179d027e9aac4eaebc44847604b0ff86644f3030116e8"
+hash = "65d4bb4ce62b7aa735af8eea00e612b2d580263857e9acc9b136f267d469f6ec"
 metafile = true
 
 [[files]]
@@ -140,17 +135,17 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "c35d165125b8a1064f59e6573ce99fb62ce36142adbc476f3e2533256910ec4b"
+hash = "7c5678f5c9f84fe9283d59581b3ba7f7228306884824f24e5e960efe2e5926c3"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "174b7b4038141e84a8a08c29d742fe4608574955991b6147b0a5fdac4c6529ff"
+hash = "92d86f3de59d59d09ea186fe2c81b3ea50196d3eaf245001aa46a82220437db9"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
+hash = "1cd10d85f64df6532038aecbd1165a8301ca390caf4f3a3fdb32a103021a6e74"
 metafile = true
 
 [[files]]
@@ -189,6 +184,6 @@ hash = "64d24bbf51f6fd16b27b5b8ee31aae0991ab909ac8ce13d44043f4b1f0e66e9c"
 metafile = true
 
 [[files]]
-file = "mods/wandering-wizardry.pw.toml"
-hash = "a375bedd7cfc7ae375e751d4c46d9f3d7e08a2890618d06f4af6284364652796"
+file = "mods/wwizardry.pw.toml"
+hash = "bd6e3b6070963d1828f4b5fba047c48e34ff7310d47f64722ee51a9053d14a0a"
 metafile = true
