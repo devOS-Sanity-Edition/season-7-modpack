@@ -49,6 +49,11 @@ hash = "27f9b131c5f2db3267fe07cab7c104a5651cbdfbdc1f023374fe6d93f686f26b"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "bfd6f9ff0b08f5a856706cc4f9e8a803a6b32665e891085256b2f4fc8f58219d"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "66ad317ec27c82ab1ec3e21df1600a3745569a533a604c9e44e4c5f54926b23f"
 metafile = true
