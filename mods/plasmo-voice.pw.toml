@@ -1,0 +1,13 @@
+name = "Plasmo Voice"
+filename = "plasmovoice-fabric-1.20.6-2.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/PkoAnEu8/plasmovoice-fabric-1.20.6-2.0.9.jar"
+hash-format = "sha1"
+hash = "73bd854a505354c8ee0554410ff1ab72507a2b70"
+
+[update]
+[update.modrinth]
+mod-id = "1bZhdhsH"
+version = "PkoAnEu8"
