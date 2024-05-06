@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "adc3dd1a54a124e9a79fa5c3fb64dfe3acd226dad15e23fed4f3aa9a951a1b6a"
+hash = "e401c07af397744ab4e6a6dad4f965c727c0ccbdeb62b7f025ac0be5df89e020"
 metafile = true
 
 [[files]]
@@ -169,6 +169,11 @@ hash = "40db85936e7296ee0940dd86a9355202d40f23d6af5631cc6e05ae2059e9c78b"
 metafile = true
 
 [[files]]
+file = "mods/stackcalc-revived.pw.toml"
+hash = "2e645567ec9ae9f03de4b6bb118c66826bf3b37ae8892afe79241c269f596bd3"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "8b5acb97521243a586b6f536b29f5c663a4559747e221ee63dd78a772f7ac6d5"
 metafile = true
@@ -184,13 +189,18 @@ hash = "d1eff7d3cab123214a5f12eb2751cb4718dfbc16e7c932709246f562c0ee661d"
 metafile = true
 
 [[files]]
+file = "mods/teabridge.pw.toml"
+hash = "57e4d86b2de8275ad4db4737ff690fc880b9735095a33dfe8d1b4f310bed31c3"
+metafile = true
+
+[[files]]
 file = "mods/unpleasant-painting.pw.toml"
 hash = "f812050303338266a260e5e62425709eba3cc8c27c0dab9b016e50c2f1688a21"
 metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "64d24bbf51f6fd16b27b5b8ee31aae0991ab909ac8ce13d44043f4b1f0e66e9c"
+hash = "da66c461789998b3cf65b1bbd0015903ea312f8bea7edf01aff9b538577be70d"
 metafile = true
 
 [[files]]
