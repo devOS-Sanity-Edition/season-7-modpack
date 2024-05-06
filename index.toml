@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bigglobe/Big Globe.json5"
+hash = "6fbb52df7625f6291a9e8551465a3d051c0a25443fdc0e98753fa17644cb6919"
+
+[[files]]
+file = "config/bigglobe/mixins.properties"
+hash = "b0a9a1ad32398ad81d1451a9019afbf048e288b6350427110ff6cbf6a72d89dc"
+
+[[files]]
 file = "config/iris.properties"
 hash = "e138dce65dd415ff265058c869383e7401e8d99eba177080b98436f5f089dec5"
 
@@ -21,6 +29,11 @@ metafile = true
 [[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "27503447a4c6558cbab40df1f9fd6ea846774d35cd3a88849acce961e3a815f1"
+metafile = true
+
+[[files]]
+file = "mods/big-globe.pw.toml"
+hash = "b263d05ebe168739b18d3b44efb1ff9bce9d2a62fc88e807e19355777b333771"
 metafile = true
 
 [[files]]
