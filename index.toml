@@ -57,6 +57,11 @@ hash = "76dbe46bfee94f99f52feca4db16ddc8f5be4a1c6779124fcaedf7170ae961b1"
 metafile = true
 
 [[files]]
+file = "mods/chexmix.pw.toml"
+hash = "bf10b0784d896a0d95c3033b5aab477cf3c4ee3c8b5ac00ae63fad0e2f2450d8"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
 metafile = true

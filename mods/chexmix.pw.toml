@@ -1,0 +1,7 @@
+name = "chexmix"
+filename = "chexmix-mod-1.20.6-1.0.2.jar"
+
+[download]
+url = "https://github.com/devOS-Sanity-Edition/ChexmixMod/releases/download/v1.0.2/chexmix-mod-1.20.6-1.0.2.jar"
+hash-format = "sha256"
+hash = "ee84bc00d3667a5376fc9ba7e3ed1e87b822270cb7347ccf24027c8c061584e3"
