@@ -1,0 +1,13 @@
+name = "Sketch"
+filename = "sketch-1.20.6-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4erSrc0h/versions/KUt4Qice/sketch-1.20.6-1.1.0.jar"
+hash-format = "sha1"
+hash = "acdacc4e47a4ac39ba314bded8f31eae54ee6fad"
+
+[update]
+[update.modrinth]
+mod-id = "4erSrc0h"
+version = "KUt4Qice"

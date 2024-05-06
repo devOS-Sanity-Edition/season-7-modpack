@@ -19,6 +19,16 @@ hash = "9f45e66a8455d6679257b352781bd796bc2ebd22f2b9da0cd0ab3e133f84f215"
 metafile = true
 
 [[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "27503447a4c6558cbab40df1f9fd6ea846774d35cd3a88849acce961e3a815f1"
+metafile = true
+
+[[files]]
+file = "mods/blockus.pw.toml"
+hash = "dc5ae3603b96a262907b561bf77fa221afdd83cc959c42682bd3d4c2a4761d74"
+metafile = true
+
+[[files]]
 file = "mods/blocky-bass.pw.toml"
 hash = "243c9e10f4aaa9dea421f67bab5f5e41c84e992f0b7d0b9c35a598a566889304"
 metafile = true
@@ -84,6 +94,11 @@ hash = "ac7af7b3ae5e63fe75ccc9dfff73caa743c642c24bb613bc19a80e2782e0d4a7"
 metafile = true
 
 [[files]]
+file = "mods/guarding.pw.toml"
+hash = "455f85ee959ac78d326dbbf33448a594be2d2b18002788edd82a0d2ef3404412"
+metafile = true
+
+[[files]]
 file = "mods/highlight.pw.toml"
 hash = "ed4d1e3eae3a95320b8f9b55594b1f0dc097740b35485b73056e7d95cef1bcfd"
 metafile = true
@@ -146,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "7c5678f5c9f84fe9283d59581b3ba7f7228306884824f24e5e960efe2e5926c3"
+metafile = true
+
+[[files]]
+file = "mods/sketch.pw.toml"
+hash = "4a84d5ef4f321d48688ef14c4c6746834055ebc9f1c033edd811bfa3f42e40ed"
 metafile = true
 
 [[files]]
