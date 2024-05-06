@@ -240,8 +240,3 @@ metafile = true
 file = "mods/vivecraft.pw.toml"
 hash = "da66c461789998b3cf65b1bbd0015903ea312f8bea7edf01aff9b538577be70d"
 metafile = true
-
-[[files]]
-file = "mods/wwizardry.pw.toml"
-hash = "bd6e3b6070963d1828f4b5fba047c48e34ff7310d47f64722ee51a9053d14a0a"
-metafile = true
