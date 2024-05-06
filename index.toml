@@ -127,11 +127,6 @@ hash = "e401c07af397744ab4e6a6dad4f965c727c0ccbdeb62b7f025ac0be5df89e020"
 metafile = true
 
 [[files]]
-file = "mods/invmove.pw.toml"
-hash = "050272634283a123782162ac9eab2394f859dcfac081c41168c9e643cdbc3c89"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "982a1a87d6cdf6e610a2792da4580ed9e69cb4e441f8f1f0787562aaf2a67cf2"
 metafile = true
