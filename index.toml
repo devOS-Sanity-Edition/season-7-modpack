@@ -33,12 +33,12 @@ metafile = true
 
 [[files]]
 file = "mods/big-globe.pw.toml"
-hash = "bf26589d5b93b8efcf7a426bf75ff9b481a2f1c5581411898c1e2aaf4e2c4cfc"
+hash = "dbb9b64799277413b7479d4deda3a074ef0d229a7193b65991cca44d8b3e7fde"
 metafile = true
 
 [[files]]
 file = "mods/blockus.pw.toml"
-hash = "dc5ae3603b96a262907b561bf77fa221afdd83cc959c42682bd3d4c2a4761d74"
+hash = "f746a5c87463840746bdc31760f3fee57fd0b1da5ff8e08f2da46bacead44e85"
 metafile = true
 
 [[files]]
@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3128c3600b7b3f360925afb2e0ace33c63fe0d588f91fc8f42648ff2362cb2a3"
+hash = "a3a4764437d80679d689091a1353277ba29fe8cb609ef2ed5dc6df5572eb1485"
 metafile = true
 
 [[files]]
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "cd21de1d5fbff8c8b1e7c4b932826f9be45765a932b3ddbafed081a2170278cb"
+hash = "34b0c904186f9883c26ffacf49afdf66bc21d44d8e62537cca5094032ccccb04"
 metafile = true
 
 [[files]]
