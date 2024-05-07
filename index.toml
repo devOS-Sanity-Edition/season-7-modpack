@@ -177,6 +177,11 @@ hash = "5c0dfc69736a9d187228e3964f1ae7baf33179f18e7d6862992b874689e49729"
 metafile = true
 
 [[files]]
+file = "mods/nears.pw.toml"
+hash = "aa57a763997502ef44cd5fec69f53102e90076bad77716a26f9200f1feb452c8"
+metafile = true
+
+[[files]]
 file = "mods/noexpensive.pw.toml"
 hash = "9c52961a2bbecb522eb364326f020bf8b5f3e322ddeeb42ea0f7bd5f97cceab3"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Nears"
+filename = "nears-1.20.5-2.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2PL7NFzr/versions/McmMpbBk/nears-1.20.5-2.0.5.jar"
+hash-format = "sha1"
+hash = "14343d98d636340986c4cacf2e33635305cd4e6d"
+
+[update]
+[update.modrinth]
+mod-id = "2PL7NFzr"
+version = "McmMpbBk"
