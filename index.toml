@@ -33,7 +33,7 @@ metafile = true
 
 [[files]]
 file = "mods/big-globe.pw.toml"
-hash = "b263d05ebe168739b18d3b44efb1ff9bce9d2a62fc88e807e19355777b333771"
+hash = "bf26589d5b93b8efcf7a426bf75ff9b481a2f1c5581411898c1e2aaf4e2c4cfc"
 metafile = true
 
 [[files]]
@@ -69,6 +69,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "ce4f187e491b2cb93583c567b09ac011cb43e06197a5bd983355a2aa290fa93d"
+metafile = true
+
+[[files]]
+file = "mods/creeper-multidrop.pw.toml"
+hash = "8c90a8262f449827fb6b9051eb2c38c074ee5ea9b45be6ef69c7806a12e06b8d"
 metafile = true
 
 [[files]]
@@ -179,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "6e371cfbefbe296d11e5296ed5299610b1035d0cca6d6b1df88fa664348f5b90"
+metafile = true
+
+[[files]]
+file = "mods/rainbethunder.pw.toml"
+hash = "163b58b72cb5882c188cccea2030a88461751279fc7fc5917b331fd7d52d567d"
 metafile = true
 
 [[files]]
