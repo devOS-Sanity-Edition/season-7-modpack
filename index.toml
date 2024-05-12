@@ -27,6 +27,11 @@ hash = "9f45e66a8455d6679257b352781bd796bc2ebd22f2b9da0cd0ab3e133f84f215"
 metafile = true
 
 [[files]]
+file = "mods/badstdout.pw.toml"
+hash = "81e013fb9ee8897ddf7c7f01de84781028507a6ff6888e6297cc0be5b52498c8"
+metafile = true
+
+[[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "27503447a4c6558cbab40df1f9fd6ea846774d35cd3a88849acce961e3a815f1"
 metafile = true
@@ -162,6 +167,11 @@ hash = "4f001e18867aeb95a997709a950e20c3a5b8706bb5cf8c28c9682f3198718c9f"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "d3716e8b83ff2044733b4e58ea266cb3f2957f472d08d015abe6a54e425202e4"
 metafile = true
@@ -194,6 +204,11 @@ metafile = true
 [[files]]
 file = "mods/rainbethunder.pw.toml"
 hash = "163b58b72cb5882c188cccea2030a88461751279fc7fc5917b331fd7d52d567d"
+metafile = true
+
+[[files]]
+file = "mods/red-bits.pw.toml"
+hash = "f80232a68343d100a3b753310ac3793da7eb1be686f0d939166c546d41a615c6"
 metafile = true
 
 [[files]]
