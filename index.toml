@@ -14,7 +14,7 @@ hash = "e138dce65dd415ff265058c869383e7401e8d99eba177080b98436f5f089dec5"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "9086a47d21f1dfe1626863d68764f258b5af81cc4c919743e9138786c7c7d5c6"
+hash = "2c0ed70802fe9095a97248343987d6958277c334b971d111d299fbbb9ce7776a"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -33,7 +33,7 @@ metafile = true
 
 [[files]]
 file = "mods/big-globe.pw.toml"
-hash = "dbb9b64799277413b7479d4deda3a074ef0d229a7193b65991cca44d8b3e7fde"
+hash = "7c9916d265af0335698f4b517a8defcd3081ec4a9e32d57b2c92b2be274ca5d7"
 metafile = true
 
 [[files]]
@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "ce4f187e491b2cb93583c567b09ac011cb43e06197a5bd983355a2aa290fa93d"
+hash = "61eef840e4c2c4196df2ee044612fc0600fba7728b81aaf7ec8a634fff672abf"
 metafile = true
 
 [[files]]
@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
 metafile = true
 
 [[files]]
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "f7e6961912af30f7a3f0f426f3f4ba07e90046db472dc354236f613c4fafe825"
+hash = "f1564bf59feb934ed08a6cfb743e10aa1479889ff58589544cb958d54d841227"
 metafile = true
 
 [[files]]
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "34b0c904186f9883c26ffacf49afdf66bc21d44d8e62537cca5094032ccccb04"
+hash = "d3716e8b83ff2044733b4e58ea266cb3f2957f472d08d015abe6a54e425202e4"
 metafile = true
 
 [[files]]
@@ -258,5 +258,5 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "da66c461789998b3cf65b1bbd0015903ea312f8bea7edf01aff9b538577be70d"
+hash = "5071e56ba30b72ce21b4947ece97e27decb6d5d4aa50b369a9a473f039d89b43"
 metafile = true
