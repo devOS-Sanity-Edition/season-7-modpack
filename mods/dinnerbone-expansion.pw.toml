@@ -1,0 +1,13 @@
+name = "Dinnerbone Expansion"
+filename = "dinnerbone_expansion-1.0.0-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9cD0Uumx/versions/lpMyBY9z/dinnerbone_expansion-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "3fcc978836fa492f91a82b702a345c765b7c24b5899dcdfb790800a091726d02446fa38f78a7484ba6c31a77d64ae1188a9c08d0a54a06ff7e2b9ddff71356e6"
+
+[update]
+[update.modrinth]
+mod-id = "9cD0Uumx"
+version = "lpMyBY9z"

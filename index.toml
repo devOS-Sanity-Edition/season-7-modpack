@@ -101,6 +101,11 @@ hash = "992fd54a7f8c0b61a0dc59458cb09b965eb5f3d7cf06a256a81970424a70332a"
 metafile = true
 
 [[files]]
+file = "mods/dinnerbone-expansion.pw.toml"
+hash = "531bb2ee3a353f24bd8b1330f10ebcd4cf99af97bdd558b5cc79f0b9346b8c69"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "94665772ade91e3d40e76dabfb972d2355f02cb2f3de7f9a75093e14bb7d5936"
 metafile = true
@@ -166,6 +171,11 @@ hash = "015b568ddff1edf0d756a1ce9a9df0b83e417764e01ac04ba7e68acb0cc847b5"
 metafile = true
 
 [[files]]
+file = "mods/geophilic.pw.toml"
+hash = "643b6f675134f2b2dcf7601cf895a83dbb9ad56b1433e603ba36c8c1fc6c94bf"
+metafile = true
+
+[[files]]
 file = "mods/guarding.pw.toml"
 hash = "2fd16929b658c66a32982e91eb55c333bd4bcc14127582a7f6e38268f9aaccf6"
 metafile = true
@@ -183,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "0e22525fc679dad2dbdfc55228d1146a56daa494171f9f25057b24f8ee28adcc"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "017875c95303b70a80bcadc4abb645d68ebdff230a39106b23502fe30cbbfea3"
 metafile = true
 
 [[files]]
@@ -246,6 +261,11 @@ hash = "d68ba63b7d24eed973f5bc38233633a300ed264a216f549a36b56d6bdd97f550"
 metafile = true
 
 [[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "973e7f7f8d2397cce4e1cec393532bf34ec1107eee902b9c2120f9e95d27c050"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2c242048726e82d36863b81ecbaa342328bb2929dc82da2f573d83b9f0711505"
 metafile = true
@@ -273,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "2d4675c2907f1a4e2217a7afe61bdff74de5e39f55f2a5822b82e483c213e76d"
+metafile = true
+
+[[files]]
+file = "mods/wfs-cave-overhaul.pw.toml"
+hash = "a9c867f18ad124ad44f96c4b2132025734cd24d727f7d7af2136d51f5ac24a45"
 metafile = true
 
 [[files]]
