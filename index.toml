@@ -25,6 +25,10 @@ file = "config/modernfix-mixins.properties"
 hash = "eb5b25637b65d593b2974805c70f6ef3558942641dbf7e3c72bc5fb25e2f16e0"
 
 [[files]]
+file = "config/modmenu.json"
+hash = "3c0ea73e89c7118ac6c74a783662c876f8998649db51f6ce0a60fb4b5c2ca693"
+
+[[files]]
 file = "config/sodium-options.json"
 hash = "1570d389b7f47caa8256fcf023243cd510d37eda62a611c8e27936c12d93d806"
 
