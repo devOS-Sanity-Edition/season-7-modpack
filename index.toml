@@ -97,12 +97,27 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "ffc0ecd490baa49fb538fbaced4bd13f1bb6b9f36981d0f6328552f3fbe6541a"
+hash = "94665772ade91e3d40e76dabfb972d2355f02cb2f3de7f9a75093e14bb7d5936"
 metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "1de39da04f5e8ab4595f4c2cd36710bc29a661311c5616e6af6af270d2506aed"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "353fee63b9660eaa2d484f1fb7e3d19178802b2ada7e7423cb1a83709d9f588c"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "ede11788835bc12a73fa0c1b532139a2dac0ba8e690451b2b887901117f2da4a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "39225a351af4cac54235997cc04af74a358bf6a5fa1a9c78d7af47d5c74903ce"
 metafile = true
 
 [[files]]
@@ -128,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "516d90166c8b7ce7393d4926aaff6eae6dcdc0966b16338d4ecb51dd2a4b118c"
 metafile = true
 
 [[files]]
