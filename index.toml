@@ -42,8 +42,18 @@ hash = "b21ef031c6ad139361352529cb63f4799ffa91008895e1c7a9a5102ea007ae2d"
 metafile = true
 
 [[files]]
+file = "mods/badstdout.pw.toml"
+hash = "b2f2254fda825a08d1d41a6dcbeada190c772fda4e06ee06c1a8e6a6c7be51f7"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "a86cb824462a043ff241703b27001085ae146282b845431890b132b48af23fbd"
+metafile = true
+
+[[files]]
+file = "mods/chex-mix-mod.pw.toml"
+hash = "5f92a4bbdd619ca745d2233c83f528ef16e9e9e4e9b9524fb337463fb8c6715a"
 metafile = true
 
 [[files]]
@@ -54,6 +64,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ffc0ecd490baa49fb538fbaced4bd13f1bb6b9f36981d0f6328552f3fbe6541a"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "1de39da04f5e8ab4595f4c2cd36710bc29a661311c5616e6af6af270d2506aed"
 metafile = true
 
 [[files]]
@@ -82,6 +97,11 @@ hash = "eb89087b0fc75e9689c94912379c9b9c147186e5c931f0b31e1e930c277f0520"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "0e22525fc679dad2dbdfc55228d1146a56daa494171f9f25057b24f8ee28adcc"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "2b699ec9fd674b493af0e52bc3ecbbdb3dc890a6d70f132dc146d5331c0d5b28"
 metafile = true
@@ -89,6 +109,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "cbf6e68bef5fab8963274c8637e81366e1f1ddf8c59b7cc81181e2928358ee43"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
 metafile = true
 
 [[files]]
@@ -104,6 +129,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "0b35eacc51808809894ef78b91dfd614e056a34708e4bd2aa6f5ebeb7993a1c0"
+metafile = true
+
+[[files]]
+file = "mods/rainbethunder.pw.toml"
+hash = "d815fea528285de6f4a6841cb9e2ddfd028c89080282379fbace090bd642fca1"
 metafile = true
 
 [[files]]
