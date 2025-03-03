@@ -96,6 +96,11 @@ hash = "157e9ed75307c70b4c768fa15f3975b21ac5a70fc3580cd455e0aa8e23ff5d55"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "992fd54a7f8c0b61a0dc59458cb09b965eb5f3d7cf06a256a81970424a70332a"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "94665772ade91e3d40e76dabfb972d2355f02cb2f3de7f9a75093e14bb7d5936"
 metafile = true
@@ -146,8 +151,18 @@ hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "96339d27729d5a73360eb2d9e5e9b92b146f0968e485a743c7eea839dff28fa3"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "516d90166c8b7ce7393d4926aaff6eae6dcdc0966b16338d4ecb51dd2a4b118c"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "015b568ddff1edf0d756a1ce9a9df0b83e417764e01ac04ba7e68acb0cc847b5"
 metafile = true
 
 [[files]]
@@ -203,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/rainbethunder.pw.toml"
 hash = "d815fea528285de6f4a6841cb9e2ddfd028c89080282379fbace090bd642fca1"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "9a8d1928feb61ae2e53e949239e9b4d86fd677f5005bd091000336089e2a7a61"
 metafile = true
 
 [[files]]
