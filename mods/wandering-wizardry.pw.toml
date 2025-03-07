@@ -1,0 +1,13 @@
+name = "Wandering Wizardry"
+filename = "wwizardry-1.1.11+mc.1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6eWropFc/versions/VRkzlx02/wwizardry-1.1.11%2Bmc.1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "e670b7c75e289bc0dee80bcbb9d587977870480a980a6f4ce347480dfc352755d189e1bf9fe39debc858bca3cfc744a683f546eb1614417feb0094fc28abd4fa"
+
+[update]
+[update.modrinth]
+mod-id = "6eWropFc"
+version = "VRkzlx02"

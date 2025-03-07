@@ -5,6 +5,10 @@ file = "config/badoptimizations.txt"
 hash = "36338d3936d56f66abc9529fcc88a3a6904991d30eb6c5342309adc04f7677e0"
 
 [[files]]
+file = "config/biomeswevegone/world_generation.json5"
+hash = "5155719172c1445fa942421ea000b60ecfb8d69bc3d716776e23e1c7caa1f9df"
+
+[[files]]
 file = "config/dynamic_fps.json"
 hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
@@ -19,6 +23,14 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "fe6551b3aa77d3b624acff41ed6bf65b3d6d5c8821b7bda8875ff7b6b75e0c43"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "25deddc8a8ed0c109be29635161fdd86dabf28c56f1d6d376ffcd36735b399a5"
+
+[[files]]
+file = "config/lootr.json"
+hash = "502e2c0c96f67067d309edaa42bff4550f302389e5dd0aa7a79afa42b3d751f7"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -66,6 +78,11 @@ hash = "0dc6b099b0bdf70ce41e2ed30e70d6b5cba93d127d6b3f9e455566c4c1b65ff2"
 metafile = true
 
 [[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "98f900ff9f44bd7a27867c3e8e7757ea2b9cf3b9a11d0f567bea629103ddcf71"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "b21ef031c6ad139361352529cb63f4799ffa91008895e1c7a9a5102ea007ae2d"
 metafile = true
@@ -78,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
+metafile = true
+
+[[files]]
+file = "mods/blocky-bass.pw.toml"
+hash = "cd6dbfa58246fb0efdfc0d76cf09c81fcc862ab271d30c323b1c3a14657b254b"
 metafile = true
 
 [[files]]
@@ -113,6 +135,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "157e9ed75307c70b4c768fa15f3975b21ac5a70fc3580cd455e0aa8e23ff5d55"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "a520ac2a2b0a90c1c5f41f4aaffe96320ce4e4fb56a9f821e8a010a2088b2762"
 metafile = true
 
 [[files]]
@@ -217,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "516d90166c8b7ce7393d4926aaff6eae6dcdc0966b16338d4ecb51dd2a4b118c"
+hash = "d4ebde657a2201455a13405b549eb06a272171eaf399ff1c9928a5df96600283"
 metafile = true
 
 [[files]]
@@ -251,8 +278,18 @@ hash = "858f7eef766bcdc4bb91a0cb82938375a421372c7cdc198f67d1f2254b70eeb5"
 metafile = true
 
 [[files]]
+file = "mods/idwtialsimmoedm.pw.toml"
+hash = "f05b7aec4046e3860a4795a74b036c58153b509f5ba1f4a8cacc6ab5a1dff87e"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "446cdc1c3d7cbbfe8c24d86ac26865803c1cdacaf25ce7d51144686c41d20c0a"
+hash = "56c0042305fc635e08d9bed8ef3b74071389ce6900a0b4f9e85b2a1067de1369"
+metafile = true
+
+[[files]]
+file = "mods/its-as-shrimple-as-that.pw.toml"
+hash = "190b5e754fd3f1c7840e4731d83250797292859a1f34bd69c220448b1c30dd96"
 metafile = true
 
 [[files]]
@@ -291,6 +328,16 @@ hash = "e903d9958d442f8cbd2dd05806a85e59a7e8a7d499a0b016853b2fe90cd98615"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "0cb32dfe85a20edd89064158178dde59880625f01fc88323e7bf6ac407b8c7bf"
+metafile = true
+
+[[files]]
+file = "mods/magic-8-ball.pw.toml"
+hash = "bbad452ecc0339627c8cca96a2d5872cff7096bc1dd50a9b6dd1309f6c496b1f"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
 metafile = true
@@ -313,6 +360,21 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "0b35eacc51808809894ef78b91dfd614e056a34708e4bd2aa6f5ebeb7993a1c0"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "1e2b3c4d14e7eb437ce71ceca81b54e345252dcd8d4e6533bf259ea7c7491302"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "87203180554a57be4bc3074fa4fdfd2684738d4d28577f8fdd05b8d1aa89f456"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "0a027b103da4dad97a93cab263d9a7fa5a696367e106db6ef13c6b7dd52b386b"
 metafile = true
 
 [[files]]
@@ -377,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "973e7f7f8d2397cce4e1cec393532bf34ec1107eee902b9c2120f9e95d27c050"
+hash = "d63cd86868e19e7bb0770a55ce9171b6afbdcbbd30c77511e14ce790fa8983c2"
 metafile = true
 
 [[files]]
@@ -401,6 +463,11 @@ hash = "c2ed2a894d74e7aad593e298ee23dbee916611da88dead606c50bb3350c63803"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
+metafile = true
+
+[[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "a388c7e1cb4e9d632f9b8acbc06b2b644bb06311048de26637c0bc1bdf2065e8"
 metafile = true
@@ -413,6 +480,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "e4289903fd7e3406ae125763a57858251d6ecb566114274d7ed88f00217fd894"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
 metafile = true
 
 [[files]]
@@ -436,6 +508,11 @@ hash = "aa0581977eb843b03a7355db30891609ff5af21daa694c0bde1921b4aad02a1b"
 metafile = true
 
 [[files]]
+file = "mods/wandering-wizardry.pw.toml"
+hash = "4337411e95df3350d43b0a3ecf27118931ebe244788e8425a02bfaaf4406d122"
+metafile = true
+
+[[files]]
 file = "mods/wfs-cave-overhaul.pw.toml"
 hash = "a9c867f18ad124ad44f96c4b2132025734cd24d727f7d7af2136d51f5ac24a45"
 metafile = true
@@ -446,13 +523,18 @@ hash = "b2e559bf66f44288db486503e72c61b3eb0f3bcb5a61a7a236918573ec13561a"
 metafile = true
 
 [[files]]
+file = "mods/yeet.pw.toml"
+hash = "acf0fc802834c31657fba9225721806f8700bdb2b6206173f2d4bd3b6041400a"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "19bfaf808255bb6a5508cb2c861779c433a5ed58e7889755938dc12cb479e912"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "22cf0d4a55fc4a5481d9bee89a2e769a234eecb7a2f08a2c5dac788e19a73e68"
+hash = "1ae1a8315510d3483edc4133dd7606dfd4fba997665c1392941ee84e3dab3b9f"
 metafile = true
 
 [[files]]
@@ -472,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "9e68fd547fd8413572b9154a87ed479faca683205c7d2722bea2152638fc5453"
+hash = "50b15044d35c66e35253d96ebd7290927c4584628b2ca7b844e5bd4e98ebb6b5"
 metafile = true
 
 [[files]]
@@ -482,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
-hash = "7d62d700a54bbca0a96ab0800e9418744805f2c4c127c2840bd64c380a101263"
+hash = "73465bc3659e3a096d92ef591b7f039711c8d4a016169fb06f482dcd4a9862eb"
 metafile = true
 
 [[files]]

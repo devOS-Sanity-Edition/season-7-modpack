@@ -1,0 +1,13 @@
+name = "It's as Shrimple as That"
+filename = "its_as_shrimple_as_that-2.0.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GW9EtJVI/versions/26Qz6OBC/its_as_shrimple_as_that-2.0.19.jar"
+hash-format = "sha512"
+hash = "a02b133ee19a660ab5a6cc299fd0e05d6060f726626c4ae9cc40816fa678c283b781101e8d908b68efc62488297fefa8b77a60834390ddb631d07ba9dfa926db"
+
+[update]
+[update.modrinth]
+mod-id = "GW9EtJVI"
+version = "26Qz6OBC"
